@@ -1,0 +1,12 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.hr1{
+    border-style: none;
+    width: 100px;
+    border-top: 15px dotted red;
+    margin-left: 45%;
+     
+}
+    
